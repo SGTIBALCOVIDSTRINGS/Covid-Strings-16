@@ -4,7 +4,7 @@ html
 head
 utf-eight
 viewport content =width=device-width,inital scale one
-title covid strings16 championship round
+title covid strings16 championship bracket
 link rel=stylesheet href= css
 head
 body
