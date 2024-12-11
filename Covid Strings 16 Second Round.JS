@@ -4,7 +4,7 @@ html
 head
 utf8
 viewport content=width=device-width, initial-scale=one>
-title covidstrings16 second round
+title covidstrings16 second round bracket
 filename=covidstrings16 secondround.js
 highest remaining seed=(greatest remaining num value in covid strings list)
 lowest remaining seed =(lowest remaining num value in covid strings list)
