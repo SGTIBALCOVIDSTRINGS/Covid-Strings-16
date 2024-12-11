@@ -4,12 +4,12 @@ html
 head
 utf8
 viewportcontent=width=device-width,initial-scale=one
-title covid strings16 first round
+title covid strings16 first round bracket
 filename=covid strings16 first round.js
 first round=(highest overall seed,second highest seed third highest seed first middle seed, second middle seed,  third lowest seed ,second lowest seed,lowest overall seed)
 highest overall seed = 1 seed
 second highest seed=2seed
-third Highest seed=3 seed
+third highest seed=3 seed
 firstmiddleseed=4seed
 second middle seed = 5 seed
 third lowest seed= 6 seed
