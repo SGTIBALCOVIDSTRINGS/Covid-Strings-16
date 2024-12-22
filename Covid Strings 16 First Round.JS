@@ -18,7 +18,7 @@ lowest overall seed = 8 seed
 covidstrings team list16=[indigo,burgundy,green,teal,turquoise,orange,purple,yellow]
 create matchup(orange versus green)
 create matchup(yellow versus indigo)
-create matchup(purple Versus burgundy)
+create matchup(purple versus burgundy)
 create matchup(turquoise versus teal)
 bracket =getelementbyid(bracket);
 document.createelement 
