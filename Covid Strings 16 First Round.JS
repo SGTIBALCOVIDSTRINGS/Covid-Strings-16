@@ -26,14 +26,14 @@ third lowest seed= 6 seed
 second lowest seed = 7 seed
 lowest overall seed = 8 seed
 covidstrings team list16=[indigo,burgundy,green,teal,turquoise,orange,purple,yellow]
-create matchup(orange versus green)
-create matchup(yellow versus indigo)
-create matchup(purple versus burgundy)
-create matchup(turquoise versus teal)
+matchup1=(orange versus green)
+matchup2=(yellow versus indigo)
+matchup3=(purple versus burgundy)
+matchup4=(turquoise versus teal)
 bracket =getelementbyid(bracket);
 document.createelement 
 matchupdiv.classname=(matchup)
-matchupdiv.innerHTML =[matchup]
+matchupdiv.inner html =[matchup]
 rounddiv.appendchild(matchup)
 for (i in covid strings first round)
 round div=create element
@@ -64,21 +64,24 @@ if selectedanswer==correct:
 return true
 else:
 return false
-advancingteam=slice(current teams.length)
+advancingteam=slice(current teams)
 declarewinner
-let result=declarewinner(team1 score, team2 score)
+result=declarewinner(matchup1)
 if green score>=forty:
 console.log(green peacemakers win)
 else:
 console.log(orange rna messengers win)
+result=declarewinner(matchup2)
 if indigo score>=forty:
 console.log(indigo isos win)
 else:
 console.log(yellow moxie wins)
+result=declarewinner(matchup3)
 if burgundy score>=forty:
 console.log(burgundy rebuilders win)
 else:
 console.log(purple brave hearts win)
+result=declarewinner(matchup4)
 if teal score>=forty:
 console.log(teal terminators win)
 else:
