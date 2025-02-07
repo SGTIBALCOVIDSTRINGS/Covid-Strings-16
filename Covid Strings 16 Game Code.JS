@@ -14,7 +14,7 @@ new button (set random color)
 option button
 new button (change color)
 public fun with graphics(){
-color panel
+color panel=new panel
 add (panel,center)
 button panel
 new j panel (flowlayout.center)
