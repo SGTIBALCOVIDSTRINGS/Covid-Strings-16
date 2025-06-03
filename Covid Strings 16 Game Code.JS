@@ -1,6 +1,33 @@
-doc.type.html    
+doc.type.html   
+html lang en 
 script
+header=document create.element(header)
+header.style.backgroundcolor=#4caf50
+header.style.color=’white’
+header.style.padding=’10px’
+header.style.textalign=’center’
+header.style.text.fontsize=’24px’
+header.textcontent=’welcome to covid strings16’
+document appendchild(header)
+<header.html>
+heading variables 
+the Heading Numbers That Determine Where Each Heading And Subheading Go 
+heading1=game code overview
+heading2=background functions
+heading3=game code part1
+heading4=phrases
+heading5=math problems
+heading6=multiple choice questions
+heading7=sentences
+heading8=game code part2 
+heading9=answer checker
+heading10=winner checker
+subheading1=polling problems
+subheading2=answer scanner
 filename=covidstrings16.js
+<header.html>
+game code overview
+an outline of the game code for covid strings16
 java.awt graphics
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
@@ -13,16 +40,19 @@ random button
 new button (set random color)
 option button
 new button (change color)
-public fun with graphics(){
+public fun with graphics()
 color panel=new panel
 add (panel,center)
 button panel
-new j panel (flowlayout.center)
+new  panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
 override 
-public actionperformed(actionevent e){
+public actionperformed(actionevent e)
 random r= newrandom();
+<header.html>
+background functions
+the functions that lead into the background that are the first things the user will experience
 colorpanel.setbackground(new color (rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13),)(rnextint(13)))
 num teams
 total players=players per team
@@ -34,15 +64,18 @@ teamsgrouping=(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)(rnextint8)
 buttonpanel.add(optionbutton);
 optionbutton.add actionlistener(new action listener)
 override 
+<header.html>
+game  code part1
+part1 of game code for covid strings16(value object[team-color]-desired color green)
 public actionperformed(actionevent e)
-color m=jcolorchooser.showdialog(funwithgraphics.this,)
+color m=jcolorchooser.showdialog(funwithgraphics.this)
 if(multi!=null)
 color panel set.background(multi)
 this.add(buttonpanel,borderlayout.south)
 public static main(string [] args)
 jframe f = new covid strings16()
 f.set title(covid strings16)
-f.set default closeoperation(jframe.exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(true);
 <label id=lblscore>zero</label>
@@ -58,7 +91,7 @@ score+=twenty
 else:
 score-=twenty
 lblscore=document.getelementbyid(lblscore)
-lbl.score.innerHTML=score
+lbl.score.innerhtml=score
 public actionperformed(action event e) 
 system.out print.in (next button clicked)
 frame.add(next button);
@@ -68,6 +101,9 @@ keys object keys(team)
 entries object entries(obj);
 value object= [team color]
 covidstringsteamlist16=[indigo isos,burgundy rebuilders,green peacemakers,teal terminators,turquoise waves,orange rna messengers,purple brave hearts,yellow moxie]
+<header.html>
+phrases
+phrases that involve both non-concatenated and concatenated strings 
 covid strings phrase list16=[non-concatenated strings "another concerning sign may be hospitals reintroducing mask mandates"
 "perhaps it is because jn1 just has some really weird symptoms"
 "even bernie sanders can no longer say he is in the top1 percent of covid avoiders"
@@ -86,6 +122,19 @@ concatenated strings
 "nascars"+"i"+"series"+"was"+"the"+"first"+"preview"+"of"+"a"+"potential"+"post"+"covid"+"sports"+"landscape"
 "capital"+"ones"+"the"+"match"+"provides"+"another"+"covid"+"releaf"+"valve"
 "the"+"one"+"problem"+"is"+"that"+"some"+"covid"+"comedies"+"are"+"not"+"relatable"]
+string manager{non-concatenated}
+insert String (Entity,String)
+entity.Element.Text=String
+string Manager Insert String
+string Manager{Concatenated}
+insert String (Entity,String)
+entity.Element.Text=String
+string Manager Insert String
+string=””
+for String In Covid Strings Phrase List 
+select Characters
+edit Diffuse Property
+desired Color=Green
 covid strings16 math problems list=[ non-concatenated "if the percent of people who betted during said bubble was 53 percent compared to 74 percent how many people declined to make any bets"?,"if a study found that the amount of betting on games played in a bubble was 67%  while the number of games in a normal setting was 71% how much of a difference was there"?,"of those who still betted 89 percent said they cut back on the amount that they bet with55 percent saying they did so out of saving their personal finances with the remainder saying they did so out of concern that betting would be a slippery slope how many people choose the latter"? "when it comes to tv ratings overall during the bubble if there were approximately 73.5 million before the pandemic and 78.9 once sports came back in a bubble format what is the difference"?,"if the margin of error for the study was 2.02024 percent what is the range for the bubble"?,"given the same margin of error find the range for a normal setting"?,
 concatenated "if"+"57"+"percent"+"believe"+"that"+"mike"+"pences"+"covid"+"denial"+"cost"+"lives"+"how"+"many"+"dont"?,"if"+"the"+"margin"+"of"+"error"+"is"+"2.021"+"percent"+"what"+"is"+"the"+"range"?,"if"+"33"+"percent"+"strongly"+"believe"+"that"+"pence"+"was"+"to"+"blame"+"how"+"many"+"are"+"mild"?,"if"+"87"+"percent"+"believe"+"that"+"pandemic"+"was"+"the"+"right"+"word"+"for"+"2020"+"how"+"many"+"dont"?,"if"+"the"+"margin"+"of"+"error"+"is"+"1.29"+"percent"+"what"+"is"+"the"+"range"?,"if"+"19"+"percent"+"mildly"+"believe"+"how"+"many"+"strongly"+"believe"?]
 covidstrings16multiplechoicelist=[1:a defense of plenty b too many goods c post covid student loan d trump inspired gsa fine defiance,2:a twin hreats to democracy   b a second wave  c the bubble being a bad movie  d kim jong un being over300 pounds,3:a schools b  hospitals c ai powered robots  d colonizing other planets,4:a covid shot b mmr vaccine c tinnitus shot  d meningitis,5:a putins legal system b jn1 c democrats voting republican in 2024 d republicans making sure trump cant pull out of nato,6:a bubble b future trumps nazi propaganda c us decade advantage in the next china war d russian armys march on moscow 7:a nernie sanders b russians sick of putin c popular christian nationalist myths d a silver tsunami of baby boomer,
