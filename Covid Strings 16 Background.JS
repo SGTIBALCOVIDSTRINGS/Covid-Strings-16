@@ -23,7 +23,7 @@ java.awt graphics
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
-src.appendchild(rhis.img) 
+src.appendchild(this.img) 
 <div id=header></div>
 audio=new audio (audio_file mp3)
 audio.play 
@@ -31,7 +31,7 @@ random button
 new button (set random color)
 option button
 new  button (change color)
-public fun with graphics(){
+public fun with graphics()
 color panel=new j panel();
 this add (panel,center )
 button panel
