@@ -20,6 +20,15 @@ filename=covid strings 16 key words.js
 keywords
 key search words for covid strings16
 covid strings16 key word list=[economy,mike pences denial covid first wave,reintroducing mask mandates,novavax vaccine,100-57,really weird symptoms,things worse earlier,top one percent of covid avoiders,2020 pandemic,brain control bioweapons,vaccine, second chance,dumbest controversy, nascar series, failure pandemic,capital one relief valve, not relatable,rfk’s covid claim,nikki manaj’s cousin’s friend]
+string manager non-concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+string manager concatenated
+insert string(entity,string)
+entity.element.text=string
+string manager insert string
 string=””
 for string in covid strings key word list
 select characters
