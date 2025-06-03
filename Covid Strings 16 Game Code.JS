@@ -11,7 +11,7 @@ header.textcontent=’welcome to covid strings16’
 document appendchild(header)
 <header.html>
 heading variables 
-the Heading Numbers That Determine Where Each Heading And Subheading Go 
+the heading numbers that determine where each heading and subheading go 
 heading1=game code overview
 heading2=background functions
 heading3=game code part1
@@ -123,26 +123,93 @@ concatenated strings
 "capital"+"ones"+"the"+"match"+"provides"+"another"+"covid"+"releaf"+"valve"
 "the"+"one"+"problem"+"is"+"that"+"some"+"covid"+"comedies"+"are"+"not"+"relatable"]
 string manager{non-concatenated}
-insert String (Entity,String)
-entity.Element.Text=String
-string Manager Insert String
-string Manager{Concatenated}
-insert String (Entity,String)
-entity.Element.Text=String
-string Manager Insert String
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
 string=””
-for String In Covid Strings Phrase List 
-select Characters
-edit Diffuse Property
-desired Color=Green
-covid strings16 math problems list=[ non-concatenated "if the percent of people who betted during said bubble was 53 percent compared to 74 percent how many people declined to make any bets"?,"if a study found that the amount of betting on games played in a bubble was 67%  while the number of games in a normal setting was 71% how much of a difference was there"?,"of those who still betted 89 percent said they cut back on the amount that they bet with55 percent saying they did so out of saving their personal finances with the remainder saying they did so out of concern that betting would be a slippery slope how many people choose the latter"? "when it comes to tv ratings overall during the bubble if there were approximately 73.5 million before the pandemic and 78.9 once sports came back in a bubble format what is the difference"?,"if the margin of error for the study was 2.02024 percent what is the range for the bubble"?,"given the same margin of error find the range for a normal setting"?,
-concatenated "if"+"57"+"percent"+"believe"+"that"+"mike"+"pences"+"covid"+"denial"+"cost"+"lives"+"how"+"many"+"dont"?,"if"+"the"+"margin"+"of"+"error"+"is"+"2.021"+"percent"+"what"+"is"+"the"+"range"?,"if"+"33"+"percent"+"strongly"+"believe"+"that"+"pence"+"was"+"to"+"blame"+"how"+"many"+"are"+"mild"?,"if"+"87"+"percent"+"believe"+"that"+"pandemic"+"was"+"the"+"right"+"word"+"for"+"2020"+"how"+"many"+"dont"?,"if"+"the"+"margin"+"of"+"error"+"is"+"1.29"+"percent"+"what"+"is"+"the"+"range"?,"if"+"19"+"percent"+"mildly"+"believe"+"how"+"many"+"strongly"+"believe"?]
+for string in covid strings16 phrase list 
+select characters
+edit diffuse property
+desired color=green
+<header.html>
+math problems
+covid related math problems that will appear in covid strings16
+covid strings16 math problems list=[ non-concatenated "if the percent of people who betted during said bubble was 53 percent compared to 74 percent how many people declined to make any bets"?,"if a study found that the amount of betting on games played in a bubble was 67%  while the number of games in a normal setting was 71% how much of a difference was there"?,"of those who still betted 89 percent said they cut back on the amount that they bet with55 percent saying they did so out of saving their personal finances with the remainder saying they did so out of concern that betting would be a slippery slope how many people choose the latter"? "when it comes to tv ratings overall during the bubble if there were approximately 73.5 million before the pandemic and 78.9 once sports came back in a bubble format what is the difference"?,"if the margin of error for the study was 2.02024 percent what is the range for the bubble"?,"given the same margin of error find the range for a normal setting"?,concatenated "if"+"57"+"percent"+"believe"+"that"+"mike"+"pences"+"covid"+"denial"+"cost"+"lives"+"how"+"many"+"dont"?,"if"+"the"+"margin"+"of"+"error"+"is"+"2.021"+"percent"+"what"+"is"+"the"+"range"?,"if"+"33"+"percent"+"strongly"+"believe"+"that"+"pence"+"was"+"to"+"blame"+"how"+"many"+"are"+"mild"?,"if"+"87"+"percent"+"believe"+"that"+"pandemic"+"was"+"the"+"right"+"word"+"for"+"2020"+"how"+"many"+"dont"?,"if"+"the"+"margin"+"of"+"error"+"is"+"1.29"+"percent"+"what"+"is"+"the"+"range"?,"if"+"19"+"percent"+"mildly"+"believe"+"how"+"many"+"strongly"+"believe"?]
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings16 math problems list 
+select characters
+edit diffuse property
+desired color=green
+public static main(string []args)
+int number
+number=number*2
+system.out print in (“the number is“+number)
+<subheading.html>
+polling problems
+math problems that involve the use of polls
+polling function (exact,number)
+console log (exact:${exact},number:${number},
+if polling function log==(exact,number)
+return true
+else:
+return false
+if polling function log==(number,exact)
+return false
+else:
+return true  
+for math problems in covid strings math problem list 
+if math problem==polling percent:
+subtract exact from100
+else:
+remain 
+if math problem==margin of error:
+add and subtract exact number
+else:
+remain 
+<header.html>
+multiple choice questions 
+multiple choice questions and answers that will appear in covid strings16
 covidstrings16multiplechoicelist=[1:a defense of plenty b too many goods c post covid student loan d trump inspired gsa fine defiance,2:a twin hreats to democracy   b a second wave  c the bubble being a bad movie  d kim jong un being over300 pounds,3:a schools b  hospitals c ai powered robots  d colonizing other planets,4:a covid shot b mmr vaccine c tinnitus shot  d meningitis,5:a putins legal system b jn1 c democrats voting republican in 2024 d republicans making sure trump cant pull out of nato,6:a bubble b future trumps nazi propaganda c us decade advantage in the next china war d russian armys march on moscow 7:a nernie sanders b russians sick of putin c popular christian nationalist myths d a silver tsunami of baby boomer,
 8:a word b sentence c phrase d sentence fragment:9:a elon musk b china c north korea d belarus,10:a2021 b2011 c2022 d2019,11:a covid survivors  b holocaust survivors c jeopardy contestants d people with high functioning autism,12: a chip roy being called a rino b nikki manajs friends cousins balls c the us abandoning ukraine d japan sending patriot missiles to ukraine,13:a e b i c sim d  madden,
 14:a heart b supreme court ethics c holding putin accountable for illegally using military force d chinese economic,15 a the match b college bowl c not dead yet d christmas carol,16:a rom coms b covid comedies c arguments of russia slipping into totalitarianism d movie sequels,
 17:a jeopardys second chance tournament b russia learning past mistakes c trump supporters giving biden the election d ukraines game changing weapons,18:a chinese americans b muslim americans c japanese americans d jewish people,19:a say russias air superiority is about to end b avoid being vaccinated c argue putins days are numbered d assume the supreme court will believe trumps immunity claim,
 20:a3rd b5th c2nd d4th 21:a yes b no         
+<header.html>
+sentences
+covid related sentences that will appear in covid strings16
 covid strings16 sentencelist=["one should not use nikki manajs cousins friend to avoid being vaccinated","rfks covid claim could be the 2nd stupidest","it"+"is"+"not"+"surprising"+"if"+"jeopardys"+"second"+"chance"+"tournament"+"was"+"inspired"+"by"+"returning"+"to"+"normal"]
+string manager{non-concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string manager{concatenated}
+insert string (entity,string)
+entity.element.text=string
+string manager insert string
+string=””
+for string in covid strings16 sentence list 
+select characters
+edit diffuse property
+desired color=green
+<header.html>
+game code part2
+the rest of the game code excluding answer and winner checker
+java util.scanner
+java.util
+questions=total# of questions from covid strings16 [first-championship round]
+collections.shuffle(arrays.aslist(questions)
 userin.select team
 import meta.
 class myclass
@@ -153,11 +220,6 @@ prompt
 log
 else:
 select from multiple choice
-if problem=multiple choice 
-select from multiple choice
-else
-prompt 
-log
 if problem=multiple choice 
 select from multiple choice
 else
@@ -177,7 +239,10 @@ prompt
 log
 import syntax 
 substring(start,end)
-userin.multiple choice
+<header.html>
+answer checker
+the feature within covid strings that allows the software to check whether a users answer is correct
+for multiple choice questions in covid strings
 if selectedanswer==correct answer:
 return true
 else:
@@ -186,6 +251,22 @@ if selectedanswer=not correct
 return false
 else 
 return true
+for math problems in covid strings
+if typed answer ==correct
+return true
+else:
+return false
+if typed answer==not correct
+return false
+else
+return true
+public static main(string []args)
+int number
+number=number*2
+system.out print in (“the number is“ + number)
+<subheading.html>
+answer scanner
+the feature within the covid strings answer checker that allows for confirmation of the user 
 answer checker
 scanner=new scanner(system.in)
 string correct answer
@@ -195,13 +276,24 @@ system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
 scanner.close
+<header.html>
+winner checker
+the feature within covid strings that allows for the player to know if their team won 
 check winner:
 if winner==true:
 log(the winner is)
+else:
+remain
 if winner==false:
 log(no winner yet)
+else:
+log winner
 if users team wins covid strings16 
 console log users team wins covid strings16 
-else
+else:
+remain
+if users team loses covid strings16
 return game over
+else
+remain
 return filename
