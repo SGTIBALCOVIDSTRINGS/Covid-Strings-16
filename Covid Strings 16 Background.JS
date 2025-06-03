@@ -2,7 +2,7 @@ doc.type.html
 html lang en
 script
 header=document create.element (header)
-header.style.BackgroundColor=#4caf50
+header.style.backgroundcolor=#4caf50
 header.style.color=’white’
 header.style.padding=’10Px’
 header.style.textalign=’center’
